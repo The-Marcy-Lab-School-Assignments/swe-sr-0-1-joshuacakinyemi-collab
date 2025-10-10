@@ -13,3 +13,7 @@ In a few brief paragraphs, use your chosen metaphor to explain:
 * Why it is important to write descriptive clear messages in team settings.
 
 ### Response 1
+1. Commit is like when a person to take a picture of thier code and save it to a cloud.
+2. You can commit by first setting up your code with(git add) which will place our code onto a stage then use (git commit -m "whatever you just uploaded") which will both confirm the changes into the cloud but also include the message of string.
+3. commit are useful in version control because each commit create a history of you do by allowing the user to revert to a previous state in case of data corruption.
+4. It is important to write clear message to tell your team what changes you did to the code to prevent confusion for missing or alter lines of code.
